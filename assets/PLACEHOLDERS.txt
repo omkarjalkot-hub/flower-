@@ -1,0 +1,4 @@
+Placeholder images still in use. Replace them with real photos.
+
+
+assets/qr/placeholder-qr.png    (Payment QR: upload your real QR in Admin > Payment QR)

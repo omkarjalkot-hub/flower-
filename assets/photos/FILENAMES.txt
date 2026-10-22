@@ -1,0 +1,31 @@
+Drop a real photo for a product into this folder using EXACTLY one of these file names
+(.jpg, .jpeg, .png or .webp), then restart the app. Square photos look best.
+
+red-rose-bunch-10-stems.jpg    <- Red Rose Bunch (10 stems)
+royal-red-rose-bouquet-24-stems.jpg    <- Royal Red Rose Bouquet (24 stems)
+pink-rose-hand-tied-bouquet.jpg    <- Pink Rose Hand-tied Bouquet
+hot-pink-rose-bunch-8-stems.jpg    <- Hot Pink Rose Bunch (8 stems)
+heart-of-roses-bouquet.jpg    <- Heart of Roses Bouquet
+red-rose-bouquet-in-black-wrap.jpg    <- Red Rose Bouquet in Black Wrap
+red-rose-gypsophila-bouquet.jpg    <- Red Rose & Gypsophila Bouquet
+pink-roses-in-ceramic-vase.jpg    <- Pink Roses in Ceramic Vase
+red-rose-eucalyptus-bouquet.jpg    <- Red Rose & Eucalyptus Bouquet
+single-red-rose-bouquet.jpg    <- Single Red Rose Bouquet
+pink-rose-bouquet-in-gift-wrap.jpg    <- Pink Rose Bouquet in Gift Wrap
+sunshine-mixed-bouquet.jpg    <- Sunshine Mixed Bouquet
+celebration-combo.jpg    <- Celebration Combo
+pastel-dream-bouquet.jpg    <- Pastel Dream Bouquet
+birthday-joy-bouquet.jpg    <- Birthday Joy Bouquet
+white-chrysanthemum-rose-bouquet.jpg    <- White Chrysanthemum & Rose Bouquet
+pink-rose-carnation-bouquet.jpg    <- Pink Rose & Carnation Bouquet
+luxe-mixed-flower-bouquet.jpg    <- Luxe Mixed Flower Bouquet
+purple-lisianthus-statice-bouquet.jpg    <- Purple Lisianthus & Statice Bouquet
+yellow-rose-chrysanthemum-bouquet.jpg    <- Yellow Rose & Chrysanthemum Bouquet
+pink-carnation-bouquet.jpg    <- Pink Carnation Bouquet
+mixed-tulip-bunch.jpg    <- Mixed Tulip Bunch
+marigold-flower-bunch.jpg    <- Marigold Flower Bunch
+pink-dahlia-stems-3-stems.jpg    <- Pink Dahlia Stems (3 stems)
+blue-balloon-flower-stems-5-stems.jpg    <- Blue Balloon Flower Stems (5 stems)
+crochet-rose-bouquet-red-white.jpg    <- Crochet Rose Bouquet (Red & White)
+crochet-flower-bouquet-sunflower-daisy-tulip.jpg    <- Crochet Flower Bouquet (Sunflower, Daisy & Tulip)
+dried-flower-bouquet-wheat-lavender.jpg    <- Dried Flower Bouquet (Wheat & Lavender)
